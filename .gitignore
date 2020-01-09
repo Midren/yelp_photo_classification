@@ -2,4 +2,4 @@ __pycache__
 .idea/
 .ipynb_checkpoints/
 .*.swp
-dataset/*.swp
+dataset/*
