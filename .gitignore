@@ -3,3 +3,4 @@ __pycache__
 .ipynb_checkpoints/
 .*.swp
 dataset/*
+.DS_Store
